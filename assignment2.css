@@ -1,0 +1,47 @@
+
+.a:hover{
+     background-color: rgb(38, 100, 175);
+     color: white;
+     cursor: pointer;
+   }
+.a:active{
+     background-color: rgb(43, 123, 214);
+     opacity: 0.8;
+   }
+
+.b:hover{
+     background-color: #f88593;
+     color: white;
+     cursor: pointer;
+   }
+.b:active{
+     background-color: #f94459;
+     opacity: 0.8;
+   }
+
+.c:hover{
+     background-color: #f57b34;
+     color: white;
+     cursor: pointer;
+   }
+.c:active{
+     background-color: #ff9e64;
+     opacity: 0.8;
+   }
+
+.d:hover{
+     background-color: #5db72d;
+     color: white;
+     cursor: pointer;
+   }
+.d:active{
+     background-color: #53ac23;
+     opacity: 0.8;
+   }
+   .bbb{
+    font-size: 15px;
+   }
+   .abcc{
+    background-color: #f0f0f0;
+    border: 1px solid #000000;
+   }
